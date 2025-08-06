@@ -23,9 +23,9 @@ I'm a Frontend Engineer passionate about building fast, user-friendly web experi
 
 ### 📈 GitHub Stats
 <!-- Optional GitHub Readme Stats -->
-![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercyDev&show_icons=true&theme=radical&hide=prs)
+![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mercy-Iyanu&show_icons=true&theme=radical&hide=prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MercyDev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercy-Iyanu&layout=compact&theme=radical)
 
 <!--
 **Mercy-Iyanu/Mercy-Iyanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
