@@ -17,14 +17,15 @@ I'm a Frontend Engineer passionate about building fast, user-friendly web experi
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
 ### 📫 Reach Me
-- Email: mercy.dev@example.com  
-- LinkedIn: [linkedin.com/in/mercy-dev](https://linkedin.com/in/mercy-dev)
+- Email: mercyoyelude2@gmail.com  
+- LinkedIn: [linkedin.com/in/mercy-oyelude](https://www.linkedin.com/in/mercy-oyelude/)
 - Portfolio: [mercy-iyanu.netlify.app](https://mercy-iyanu.netlify.app/)
 
 ### 📈 GitHub Stats
 <!-- Optional GitHub Readme Stats -->
-![Mercy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MercyDev&show_icons=true&theme=default)
-## Hi there 👋
+![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercyDev&show_icons=true&theme=radical&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MercyDev&layout=compact&theme=radical)
 
 <!--
 **Mercy-Iyanu/Mercy-Iyanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
