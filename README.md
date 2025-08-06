@@ -5,7 +5,7 @@ I'm a Frontend Engineer passionate about building fast, user-friendly web experi
 ### 🔭 Currently Building
 - 🧭 A Tour Aggregator Platform (React + Node.js + MongoDB)
 - 🎮 A Games Platform for Schools (Team-based & inter-school competitions)
-- ✍️ Writing on Hashnode about frontend architecture and sustainable web dev
+- ✍️ Writing on [Hashnode](https://hashnode.com/@mercyio) about frontend architecture and sustainable web dev
 
 ### 💼 Tech Stack & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
